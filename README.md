@@ -5,3 +5,4 @@
 An example package for the workshop.
 
 
+We want to improve the documentation
